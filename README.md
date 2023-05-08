@@ -28,8 +28,12 @@ Multivariate graphical(Çok değişkenli grafik): Çok değişkenli veriler, iki
 Burada veri görselleştirme için matplotlib, seaborn ve wordcloud kütüphanelerini kullanacağız. Bunları sisteminize kurun.
 
 pip install matplotlib
+
 pip install seaborn
+
 pip install wordcloud
+
 pip install scikit-learn
+
 
 ![image](https://user-images.githubusercontent.com/118043046/236746336-342c3915-03e6-4529-a9da-98472039fb23.png)
