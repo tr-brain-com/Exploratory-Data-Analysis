@@ -25,8 +25,8 @@ Univariate graphical(Tek değişkenli grafik): Grafik olmayan yöntemler, verile
 Multivariate nongraphical(Çok değişkenli grafiksel olmayan): Çok değişkenli veriler, birden fazla değişkenden kaynaklanır. Çok değişkenli grafiksel olmayan EDA teknikleri genellikle çapraz tablolama veya istatistik yoluyla verilerin iki veya daha fazla değişkeni arasındaki ilişkiyi gösterir.
 Multivariate graphical(Çok değişkenli grafik): Çok değişkenli veriler, iki veya daha fazla veri kümesi arasındaki ilişkileri görüntülemek için grafikleri kullanır. En çok kullanılan grafik, her grubun değişkenlerden birinin seviyesini temsil ettiği ve bir grup içindeki her çubuğun diğer değişkenin seviyelerini temsil ettiği gruplandırılmış bir çubuk grafik veya çubuk grafiktir.
 
-Burada kullanacağımız veri seti, NLP projeleri için çok popüler bir veri seti olan Kaggle Toxic Comments Classification’dan gelmektedir. Burada gerçekleştireceğimiz şey, bu veri setinin özelliklerini keşfetmek ve bazı çıkarımlarda bulunmak olacaktır.
-
+Burada kullanacağımız veri seti, NLP projeleri için çok popüler bir veri seti olan [Kaggle Toxic Comments Classification](https://github.com/tr-brain-com/acikhack2023TDDI/tree/main/data).’dan gelmektedir. Burada gerçekleştireceğimiz şey, bu veri setinin özelliklerini keşfetmek ve bazı çıkarımlarda bulunmak olacaktır.
+ 
 Burada veri görselleştirme için matplotlib, seaborn ve wordcloud kütüphanelerini kullanacağız. Bunları sisteminize kurun.
 
 pip install matplotlib
